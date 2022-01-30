@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gazi-Ibrahim-Hasan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python coding
+- 🌱 I’m currently learning kotlin
+- 💞️ I’m looking to collaborate on kotlin coding
 - 📫 How to reach me on email: gaziibrahimhassan@gmail.com
 
 <!---
